@@ -1,10 +1,10 @@
-# Abidin's Game of Death
-
-> A Collatz-inspired cellular automaton where life and death are governed by integer dynamics rather than fixed Conway rules.
-
 ![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green.svg)
 ![License](https://img.shields.io/badge/License-Apache--2.0-orange.svg)
+
+# Abidin's Game of Death
+
+> A Collatz-inspired cellular automaton where life and death are governed by integer dynamics rather than fixed Conway rules.
 
 ---
 
