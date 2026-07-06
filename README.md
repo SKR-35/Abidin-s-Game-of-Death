@@ -243,3 +243,7 @@ conda deactivate
 - Multi-state automata
 - Custom rule editor
 - GIF / MP4 recording
+
+---
+
+> Dedicated to the memory of Abidin.
