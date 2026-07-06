@@ -182,6 +182,58 @@ The resulting behavior is intentionally different from Conway's original univers
 
 ---
 
+# Installation
+
+## Clone the repository
+
+```bash
+git clone https://github.com/SKR-35/Abidin-s-Game-of-Death.git
+cd Abidin-s-Game-of-Death
+```
+
+---
+
+## Create a Conda environment
+
+```bash
+conda create -n automata python=3.12
+```
+
+---
+
+## Activate the environment
+
+### Windows / Linux
+
+```bash
+conda activate automata
+```
+
+---
+
+## Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## Run the application
+
+```bash
+python abidins_game_of_death.py
+```
+
+---
+
+## Deactivate the environment
+
+```bash
+conda deactivate
+```
+---
+
 # Future Ideas
 
 - GPU acceleration
