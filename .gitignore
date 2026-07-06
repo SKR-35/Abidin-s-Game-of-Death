@@ -19,3 +19,5 @@ build/
 *.egg-info/
 
 *.bak
+
+docs/UI_[2-4].png
