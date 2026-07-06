@@ -6,6 +6,8 @@
 
 > A Collatz-inspired cellular automaton where life and death are governed by integer dynamics rather than fixed Conway rules.
 
+![Application Screenshot](docs/UI_1.png)
+
 ---
 
 ## Overview
